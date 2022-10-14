@@ -1,4 +1,4 @@
-# LMS_SqlQueriesFunda
+# LMS_Sql_Queries_Funda
 The overall project is designed using the MVC pattern (MVC i.e. Model, View, and Controller). In the Backend, it is using Spring Boot, at the data access layer the project is using Hibernate Framework, and at the front end, we are using HTML, CSS, and JS. The Database used here is MYSQL.
 
 
